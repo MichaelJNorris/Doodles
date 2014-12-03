@@ -1,3 +1,7 @@
+# MJN
+.DS_Store
+__untracked__
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
